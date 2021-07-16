@@ -1,0 +1,25 @@
+{
+    "service_name": "zohosign",
+    "filename": "Portevo Merge and Sign Demo Document [A2Z Cloud]",
+    "message": "This is just a test",
+    "sign_in_order": true,
+    "signer_data": [
+        {
+            "Recipient1": "dash.test1@a2zcloud.eu.com",
+            "action_type": "sign"
+        },
+        {
+            "Recipient2": "dash.test2@a2zcloud.eu.com",
+            "action_type": "sign"
+        }
+    ],
+    "merge_data": {
+        "data": [
+            {
+                "title": "THE PORTEVO CLOUD SUBSCRIPTION SERVICE. ENABLING ACCESS TO THE TOP TIER OF CONSULTING EXPERTISE. ON DEMAND.",
+                "focus": "Business Transformation",
+                "client": "EXFO Inc."
+            }
+        ]
+    }
+}

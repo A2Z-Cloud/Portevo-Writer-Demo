@@ -1,0 +1,17 @@
+{
+  "name": "portevo-writer-demo",
+  "version": "1.0.0",
+  "description": "Repository for testing the writer merge functionality.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Dash Bunyan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
