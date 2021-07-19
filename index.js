@@ -62,16 +62,16 @@ const get_all_fields = async (token, document_id) => {
     }
 
     // send request as form
-    // const form_data = querystring.stringify(payload)
-    // options.headers['Content-Length'] = form_data.length
-    // options.headers['Content-Type'] = 'application/x-www-form-urlencoded'
-    // const result = await Utils.send(options,form_data)
-    // Utils.check_result(options, form_data, result) 
+    const form_data = querystring.stringify(payload)
+    options.headers['Content-Length'] = form_data.length
+    options.headers['Content-Type'] = 'application/x-www-form-urlencoded'
+    const result = await Utils.send(options,form_data)
+    Utils.check_result(options, form_data, result) 
 
     // send request as json
-    options.headers['Content-Type'] = 'application/json'
-    const result = await Utils.send(options,payload)
-    Utils.check_result(options, payload, result) 
+    // options.headers['Content-Type'] = 'application/json'
+    // const result = await Utils.send(options,payload)
+    // Utils.check_result(options, payload, result) 
 
     // return content
     return result.body
