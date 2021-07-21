@@ -1,5 +1,5 @@
 # Portevo-Writer-Demo
-Repository for testing the writer merge functionality for [Portevo](https://portevo.co/).
+Repository for testing the [Zoho Writer](https://www.zoho.com/writer/) merge functionality for [Portevo](https://portevo.co/).
 
 #### Notice
 This is developer documenation written for unix systems (tested on OSX) in order to simplify working with the repository and certain actions through the command line interface. If you are using Windows or different varieties of Linux you may need to modify commands as appropriate.
