@@ -1,10 +1,10 @@
 # Portevo-Writer-Demo
-Repository for testing the [Zoho Writer](https://www.zoho.com/writer/) merge functionality for [Portevo](https://portevo.co/).
+Repository for testing the [Zoho Writer](https://www.zoho.com/writer/) merge and sign functionality for [Portevo](https://portevo.co/).
 
 #### Notice
 This is developer documenation written for unix systems (tested on OSX) in order to simplify working with the repository and certain actions through the command line interface. If you are using Windows or different varieties of Linux you may need to modify commands as appropriate.
 
-This respoistory was setup by [A2Z Cloud](https://a2zcloud.com/) and is currently maintained and managed by [A2Z Cloud](https://a2zcloud.com/).
+This respository was setup by [A2Z Cloud](https://a2zcloud.com/) and is currently maintained and managed by [A2Z Cloud](https://a2zcloud.com/).
 
 This repository is currently hosted on [Github](https://github.com/A2Z-Cloud/Portevo-Writer-Demo).
 
@@ -22,7 +22,7 @@ This respository contains a fully working example of calling the Zoho Writer mer
 The test that is run in `index.js` is made of two parts. First is a call to an [endpoint](https://www.zoho.com/writer/help/api/v1/get-all-fields.html) that will return all the merge and sign metadata for the document. This can be used to verify that the merge data within the `merge.json` file is accurate and up to date. The second action is the actual call to the merge and sign endpoint. Each action is encapsulated in a function that actually makes the call and checks the API response.
 
 #### `/`
-In the root of the repository we use Make for first time setup. This simplifies the actions you need to take to get Node and NPM and any dependencies installed through use of a virtual environment. You will need to ensure you have a version [Python 3](https://www.python.org/downloads/) installed before you proceed as pip is used to setup the virtual environments.
+In the root of the repository we use Make for first time setup. This simplifies the actions you need to take to get Node and NPM and any dependencies installed through use of a virtual environments. You will need to ensure you have a version [Python 3](https://www.python.org/downloads/) installed before you proceed as pip is used to setup the virtual environments.
 
 ##### `/test`
 This folder contains JSON files where you can modify the merge data passed to Zoho during a test. The test will also output the results of the test to this folder as JSON.
@@ -40,7 +40,7 @@ When working with this repository for the first time you will need to clone the 
 ```bash
 # The url for cloning can be found where the repository is hosted.
 git clone https://host.com/path/to/repo-name.git/
-cd repo-name
+cd dir/to/repo-name
 ```
 
 #### Build Tools
@@ -48,12 +48,12 @@ From here on we will be working in the command line so make sure you have a term
 
 We will be making use of virtual environments to get together the tools we need so the only thing we need to make sure of at this stage is we have a version of Python 3 installed and usable in the command line. For those that don't, follow the setup directions [on the website](https://www.python.org/downloads/).
 
-A make file has been made to simplify the virtual environments setup for python and node.
+A make file has been made to simplify the virtual environments setup for Python and Node.
 ```bash
 # Install virtual environments and project dependencies.
 make setup
 ```
-There should now be two new folders, not tracked in git, for each virtual environemnt in the root of the project. 
+There should now be two new folders, not tracked in git, for each virtual environment in the root of the project. 
 
 #### Environment
 The tests will need to load certain settings and sensitive variables from an environment file. We do this to make it easier to have different settings between local instances but also to ensure we dont track sensitive data in our source control (git). This means, before you can run anything locally, you will need to setup an environment file.
