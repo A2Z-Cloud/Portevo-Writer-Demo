@@ -5,11 +5,11 @@
     "sign_in_order": true,
     "signer_data": [
         {
-            "Recipient1": "dash.test1@a2zcloud.eu.com",
+            "recipient_1": "dash.test1@a2zcloud.eu.com",
             "action_type": "sign"
         },
         {
-            "Recipient2": "dash.test2@a2zcloud.eu.com",
+            "recipient_2": "dash.test2@a2zcloud.eu.com",
             "action_type": "sign"
         }
     ],

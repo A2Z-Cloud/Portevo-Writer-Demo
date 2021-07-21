@@ -84,25 +84,26 @@ get_env_token(process.env.Z_REFRESH_TOKEN).then(token => {
     .then(result => {
         const log = JSON.stringify(result,null,4)
         // console.log(log)
-        fs.writeFileSync(`${__dirname}/fields.json`,log)
+        fs.writeFileSync(`${__dirname}/test/fields.json`,log)
     })
 
     // load merge data from file
-    let data = fs.readFileSync(`${__dirname}/merge.json`,'utf8')
+    let data = fs.readFileSync(`${__dirname}/test/merge.json`,'utf8')
     if(data == null) throw Error("Missing data.")
     else data = JSON.parse(data)
 
     // stringify the signer and merge data before it form encodes
     // NOTE: not sure why but Node querystring seems to not encode 
     // unless these values are strings
-    // data.signer_data = JSON.stringify(data.signer_data)
-    // data.merge_data = JSON.stringify(data.merge_data)
+    data.signer_data = JSON.stringify(data.signer_data)
+    data.merge_data = JSON.stringify(data.merge_data)
 
     // test merge and sign
     merge_and_sign(token,process.env.Z_TEMPLATE_ID,data)
     .then(result => {
+        // log the call result
         const log = JSON.stringify(result,null,4)
         // console.log(log)
-        fs.writeFileSync(`${__dirname}/result.json`,log)
+        fs.writeFileSync(`${__dirname}/test/result.json`,log)
     })
 })

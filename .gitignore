@@ -8,3 +8,5 @@ node_modules/
 .env-prod
 .vscode
 *.local
+result.json
+fields.json
