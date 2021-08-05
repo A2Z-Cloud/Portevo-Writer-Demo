@@ -152,12 +152,12 @@
                 ],
                 "pricing": [
                     {
-                        "pricingmodule": "Discovery",
-                        "pricingstart": "01/07/2021",
-                        "pricingend": "01/09/2021",
-                        "pricingeffort": "45",
-                        "pricingelapsed": "14",
-                        "pricingcost": "11112.5"
+                        "pricing.module": "Discovery",
+                        "pricing.start": "01/07/2021",
+                        "pricing.end": "01/09/2021",
+                        "pricing.effort": "45",
+                        "pricing.elapsed": "14",
+                        "pricing.cost": "11112.5"
                     }
                 ],
                 "stage1modulesummary": [
