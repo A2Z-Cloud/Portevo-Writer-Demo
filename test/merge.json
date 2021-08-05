@@ -76,7 +76,7 @@
                 "stage2elapsed": "2",
                 "stage2description": "Stage 2 Description",
                 "stage2cost": "2000.00",
-                "stage3focus": "Stage 2 Focus",
+                "stage3focus": "Stage 3 Focus",
                 "stage3start": "3/3/2023",
                 "stage3end": "3/12/2023",
                 "stage3type": "Full time",
@@ -117,37 +117,37 @@
                 "engagementdiscountvalue": "10%",
                 "engagementvat": "5",
                 "engagementnetcost": "48114",
-                "intros": [
+                "intro": [
                     {
                         "intro.header": "Portevo is radically different. ",
                         "intro.message": "We provide professional expertise that is custom-fit for your project and organisation through our innovative Work Engine™ platform.."
                     }
                 ],
-                "consultants": [
+                "consultant": [
                     {
-                        "consultants.name": "Alan Shearer",
-                        "consultants.title": "Business Deployment Expert",
-                        "consultants.link": "www.google.com",
-                        "consultants.focusscore": "70%",
-                        "consultants.sectorscore": "70%",
-                        "consultants.skillsscore": "70%",
-                        "consultants.modulesscore": "80%",
-                        "consultants.experience": "5+ years",
-                        "consultants.rating": "3 stars",
-                        "consultants.headshot": "",
-                        "consultants.summary": "Management Consultant and Chartered Marketeer. Expert in business strategy, transformative change and previous startup idea to launch. A proven track record of building and scaling business opportunities. Financial services senior business leader -  Haden Inc",
-                        "consultants.testimonial": "“Simon and I worked in partnership, and I found him a real asset. The key reason is his sheer versatility. Simon was integral to key client engagements in which we delivered a new proposition to delighted clients. I'm sure they would all recommend him too” Brianna Thomasson, Founder/CEO – Bryon-SWE Tech"
+                        "consultant.name": "Alan Shearer",
+                        "consultant.title": "Business Deployment Expert",
+                        "consultant.link": "www.google.com",
+                        "consultant.focusscore": "70%",
+                        "consultant.sectorscore": "70%",
+                        "consultant.skillsscore": "70%",
+                        "consultant.modulesscore": "80%",
+                        "consultant.experience": "5+ years",
+                        "consultant.rating": "3 stars",
+                        "consultant.headshot": "",
+                        "consultant.summary": "Management Consultant and Chartered Marketeer. Expert in business strategy, transformative change and previous startup idea to launch. A proven track record of building and scaling business opportunities. Financial services senior business leader -  Haden Inc",
+                        "consultant.testimonial": "“Simon and I worked in partnership, and I found him a real asset. The key reason is his sheer versatility. Simon was integral to key client engagements in which we delivered a new proposition to delighted clients. I'm sure they would all recommend him too” Brianna Thomasson, Founder/CEO – Bryon-SWE Tech"
                     }
                 ],
-                "studies": [
+                "study": [
                     {
-                        "studies.name": "Customer experience UK mobile network transformation",
-                        "studies.logo": "",
-                        "studies.consultant": "Simon Bottle",
-                        "studies.challenge": "For many years since launch, a UK Mobile Network Operator suffered from the highest churn and worst Net Promoter Score (NPS) in the market. It also had very high negative word-of-mouth from customers due to poor network experience and customer service. This resulted in poor brand perception which had become a handbrake for growth due to high levels of brand rejection – i.e. customers weren’t even considering the brand.",
-                        "studies.work": "We took an insight-led approach that centred around the dynamics and economics of Net Promoter Score. We developed a unique NPS and churn propensity model based on combining customer insight with underlying experience data. We then used linear regression techniques so we were able to show where the greatest impact on customer experience was happening – and so were able to prioritise the company’s resources in the most optimal way. We leveraged the model to optimise proactive interventions for how and where the operator should launch a series of material improvements through a portfolio of customer solutions, customer communication, customer journey design and co-creation.",
-                        "studies.outcome": "The work created an uplift of +25% point in Net Promoter Score over a 4 year period. This made this UK mobile operator the best in the market. Churn reduced 30% during same the period; bringing into line with its competitors. Overall, this work created a much stronger foundation for the business to further grow its customer base profitably – resulting in it seeing its reported net profit (EBIT) improve five-fold during the same period.",
-                        "studies.company": ""
+                        "study.name": "Customer experience UK mobile network transformation",
+                        "study.logo": "",
+                        "study.consultant": "Simon Bottle",
+                        "study.challenge": "For many years since launch, a UK Mobile Network Operator suffered from the highest churn and worst Net Promoter Score (NPS) in the market. It also had very high negative word-of-mouth from customers due to poor network experience and customer service. This resulted in poor brand perception which had become a handbrake for growth due to high levels of brand rejection – i.e. customers weren’t even considering the brand.",
+                        "study.work": "We took an insight-led approach that centred around the dynamics and economics of Net Promoter Score. We developed a unique NPS and churn propensity model based on combining customer insight with underlying experience data. We then used linear regression techniques so we were able to show where the greatest impact on customer experience was happening – and so were able to prioritise the company’s resources in the most optimal way. We leveraged the model to optimise proactive interventions for how and where the operator should launch a series of material improvements through a portfolio of customer solutions, customer communication, customer journey design and co-creation.",
+                        "study.outcome": "The work created an uplift of +25% point in Net Promoter Score over a 4 year period. This made this UK mobile operator the best in the market. Churn reduced 30% during same the period; bringing into line with its competitors. Overall, this work created a much stronger foundation for the business to further grow its customer base profitably – resulting in it seeing its reported net profit (EBIT) improve five-fold during the same period.",
+                        "study.company": ""
                     }
                 ],
                 "pricing": [
@@ -160,55 +160,55 @@
                         "pricingcost": "11112.5"
                     }
                 ],
-                "stage1modules": [
+                "stage1modulesummary": [
                     {
-                        "stage1modules.title": "E-Commerce Channel Evaluation and Gap Analysis",
-                        "stage1modules.summary": "An evaluation of E-Commerce capabilities and identified opportunities to improve",
-                        "stage1modules.consultant": "Danny Dixon",
-                        "stage1modules.icon": "",
-                        "stage1modules.start": "01/07/2021",
-                        "stage1modules.end": "16/07/2021",
-                        "stage1modules.effort": "10",
-                        "stage1modules.elapsed": "15",
-                        "stage1modules.cost": "9112.5",
-                        "stage1modules.description": "In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
-                        "stage1modules.scope": "In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
-                        "stage1modules.output": "The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
-                        "stage1modules.notes": "In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
+                        "stage1modulesummary.title": "E-Commerce Channel Evaluation and Gap Analysis",
+                        "stage1modulesummary.summary": "An evaluation of E-Commerce capabilities and identified opportunities to improve",
+                        "stage1modulesummary.consultant": "Danny Dixon",
+                        "stage1modulesummary.icon": "",
+                        "stage1modulesummary.start": "01/07/2021",
+                        "stage1modulesummary.end": "16/07/2021",
+                        "stage1modulesummary.effort": "10",
+                        "stage1modulesummary.elapsed": "15",
+                        "stage1modulesummary.cost": "9112.5",
+                        "stage1modulesummary.description": "In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
+                        "stage1modulesummary.scope": "In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
+                        "stage1modulesummary.output": "The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
+                        "stage1modulesummary.notes": "In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
                     }
                 ],
-                "stage2modules": [
+                "stage2modulesummary": [
                     {
-                        "stage2modules.title": "Stage 2 E-Commerce Channel Evaluation and Gap Analysis",
-                        "stage2modules.summary": " Stage 2 An evaluation of E-Commerce capabilities and identified opportunities to improve",
-                        "stage2modules.consultant": "Danny Dixon 2",
-                        "stage2modules.icon": "",
-                        "stage2modules.start": "30/07/2021",
-                        "stage2modules.end": "16/11/2021",
-                        "stage2modules.effort": "200",
-                        "stage2modules.elapsed": "22",
-                        "stage2modules.cost": "2225",
-                        "stage2modules.description": "Stage 2: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
-                        "stage2modules.scope": "Stage 2: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
-                        "stage2modules.output": "Stage 2: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
-                        "stage2modules.notes": "Stage 2: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
+                        "stage2modulesummary.title": "Stage 2 E-Commerce Channel Evaluation and Gap Analysis",
+                        "stage2modulesummary.summary": " Stage 2 An evaluation of E-Commerce capabilities and identified opportunities to improve",
+                        "stage2modulesummary.consultant": "Danny Dixon 2",
+                        "stage2modulesummary.icon": "",
+                        "stage2modulesummary.start": "30/07/2021",
+                        "stage2modulesummary.end": "16/11/2021",
+                        "stage2modulesummary.effort": "200",
+                        "stage2modulesummary.elapsed": "22",
+                        "stage2modulesummary.cost": "2225",
+                        "stage2modulesummary.description": "Stage 2: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
+                        "stage2modulesummary.scope": "Stage 2: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
+                        "stage2modulesummary.output": "Stage 2: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
+                        "stage2modulesummary.notes": "Stage 2: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
                     }
                 ],
                 "stage3modules": [
                     {
-                        "stage3modulestitle": "Stage 3 E-Commerce Channel Evaluation and Gap Analysis",
-                        "stage3modulessummary": " Stage 3 An evaluation of E-Commerce capabilities and identified opportunities to improve",
-                        "stage3modulesconsultant": "Danny Dixon 3",
-                        "stage3modulesicon": "",
-                        "stage3modulesstart": "30/07/2021",
-                        "stage3modulesend": "16/11/2021",
-                        "stage3moduleseffort": "300",
-                        "stage3moduleselapsed": "33",
-                        "stage3modulescost": "3335",
-                        "stage3modulesdescription": "Stage 3: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
-                        "stage3modulesscope": "Stage 3: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
-                        "stage3modulesoutput": "Stage 3: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
-                        "stage3modulesnotes": "Stage 3: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
+                        "stage3modules.title": "Stage 3 E-Commerce Channel Evaluation and Gap Analysis",
+                        "stage3modules.summary": " Stage 3 An evaluation of E-Commerce capabilities and identified opportunities to improve",
+                        "stage3modules.consultant": "Danny Dixon 3",
+                        "stage3modules.icon": "",
+                        "stage3modules.start": "30/07/2021",
+                        "stage3modules.end": "16/11/2021",
+                        "stage3modules.effort": "300",
+                        "stage3modules.elapsed": "33",
+                        "stage3modules.cost": "3335",
+                        "stage3modules.description": "Stage 3: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
+                        "stage3modules.scope": "Stage 3: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
+                        "stage3modules.output": "Stage 3: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
+                        "stage3modules.notes": "Stage 3: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
                     }
                 ],
                 "stage4modules": [
@@ -230,36 +230,36 @@
                 ],
                 "stage5modules": [
                     {
-                        "stage5modulestitle": "Stage 5 E-Commerce Channel Evaluation and Gap Analysis",
-                        "stage5modulessummary": " Stage 5 An evaluation of E-Commerce capabilities and identified opportunities to improve",
-                        "stage5modulesconsultant": "Danny Dixon 5",
-                        "stage5modulesicon": "",
-                        "stage5modulesstart": "30/05/2022",
-                        "stage5modulesend": "16/11/2022",
-                        "stage5moduleseffort": "50",
-                        "stage5moduleselapsed": "5",
-                        "stage5modulescost": "5000.5",
-                        "stage5modulesdescription": "Stage 5: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
-                        "stage5modulesscope": "Stage 5: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
-                        "stage5modulesoutput": "Stage 5: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
-                        "stage5modulesnotes": "Stage 5: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
+                        "stage5modules.title": "Stage 5 E-Commerce Channel Evaluation and Gap Analysis",
+                        "stage5modules.summary": " Stage 5 An evaluation of E-Commerce capabilities and identified opportunities to improve",
+                        "stage5modules.consultant": "Danny Dixon 5",
+                        "stage5modules.icon": "",
+                        "stage5modules.start": "30/05/2022",
+                        "stage5modules.end": "16/11/2022",
+                        "stage5modules.effort": "50",
+                        "stage5modules.elapsed": "5",
+                        "stage5modules.cost": "5000.5",
+                        "stage5modules.description": "Stage 5: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
+                        "stage5modules.scope": "Stage 5: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
+                        "stage5modules.output": "Stage 5: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
+                        "stage5modules.notes": "Stage 5: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
                     }
                 ],
-                "stage6modules": [
+                "stage6module": [
                     {
-                        "stage6modules.title": "Stage 6 E-Commerce Channel Evaluation and Gap Analysis",
-                        "stage6modules.summary": " Stage 6 An evaluation of E-Commerce capabilities and identified opportunities to improve",
-                        "stage6modules.consultant": "Danny Dixon 6",
-                        "stage6modules.icon": "",
-                        "stage6modules.start": "30/07/2026",
-                        "stage6modules.end": "16/11/2026",
-                        "stage6modules.effort": "600",
-                        "stage6modules.elapsed": "66",
-                        "stage6modules.cost": "6000",
-                        "stage6modules.description": "Stage 6: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
-                        "stage6modules.scope": "Stage 6: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
-                        "stage6modules.output": "Stage 6: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
-                        "stage6modules.notes": "Stage 6: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
+                        "stage6module.title": "Stage 6 E-Commerce Channel Evaluation and Gap Analysis",
+                        "stage6module.summary": " Stage 6 An evaluation of E-Commerce capabilities and identified opportunities to improve",
+                        "stage6module.consultant": "Danny Dixon 6",
+                        "stage6module.icon": "",
+                        "stage6module.start": "30/07/2026",
+                        "stage6module.end": "16/11/2026",
+                        "stage6module.effort": "600",
+                        "stage6module.elapsed": "66",
+                        "stage6module.cost": "6000",
+                        "stage6module.description": "Stage 6: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
+                        "stage6module.scope": "Stage 6: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: • Evaluating the strategic goals and objectives for E-Commerce • Reviewing website technology, structure, design and layout • Analysing product page design and approach to pricing • Evaluating customer management, digital marketing and SEO capabilities • Providing a summary of gaps, opportunities and recommendations for E-Commerce",
+                        "stage6module.output": "Stage 6: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
+                        "stage6module.notes": "Stage 6: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
                     }
                 ]
             }
