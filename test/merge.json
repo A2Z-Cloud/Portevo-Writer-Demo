@@ -5,11 +5,23 @@
     "sign_in_order": true,
     "signer_data": [
         {
-            "recipient_1": "dash.test1@a2zcloud.eu.com",
+            "recipient_1": "consultant@a2zcloud.eu.com",
+            "action_type": "view"
+        },
+        {
+            "recipient_1": "customer@a2zcloud.eu.com",
+            "action_type": "approve"
+        },
+        {
+            "recipient_2": "customer@a2zcloud.eu.com",
             "action_type": "sign"
         },
         {
-            "recipient_2": "dash.test2@a2zcloud.eu.com",
+            "recipient_3": "consultant@a2zcloud.eu.com",
+            "action_type": "sign"
+        },
+        {
+            "recipient_3": "simon.bottle@portevo.co",
             "action_type": "sign"
         }
     ],
@@ -58,8 +70,6 @@
                 "stage4summary": "Training of the system to ensure users are up to date",
                 "stage5title": "Delivery",
                 "stage5summary": "Delivering change programme/project",
-                "stage6title": "Optimise/Embed",
-                "stage6summary": "Ingrain change benefits management realisation",
                 "stage1focus": "Stage 1 Focus",
                 "stage1start": "01/07/2021",
                 "stage1end": "01/10/2021",
@@ -100,14 +110,6 @@
                 "stage5elapsed": "5",
                 "stage5description": "Stage 5 Description",
                 "stage5cost": "5000",
-                "stage6focus": "Focus le Six",
-                "stage6start": "6/6/2026",
-                "stage6end": "6/12/2026",
-                "stage6type": "All year",
-                "stage6effort": "60",
-                "stage6elapsed": "16",
-                "stage6description": "Stage 6 description",
-                "stage6cost": "16000",
                 "engagementstart": "1/1/2021",
                 "engagementend": "12/12/2021",
                 "engagementeffort": "350",
@@ -243,23 +245,6 @@
                         "stage5modules.scope": "Stage 5: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: \n• Evaluating the strategic goals and objectives for E-Commerce \n• Reviewing website technology, structure, design and layout \n• Analysing product page design and approach to pricing \n• Evaluating customer management, digital marketing and SEO capabilities \n• Providing a summary of gaps, opportunities and recommendations for E-Commerce",
                         "stage5modules.output": "Stage 5: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
                         "stage5modules.notes": "Stage 5: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
-                    }
-                ],
-                "stage6module": [
-                    {
-                        "stage6module.title": "Stage 6 E-Commerce Channel Evaluation and Gap Analysis",
-                        "stage6module.summary": " Stage 6 An evaluation of E-Commerce capabilities and identified opportunities to improve",
-                        "stage6module.consultant": "Danny Dixon 6",
-                        "stage6module.icon": "",
-                        "stage6module.start": "30/07/2026",
-                        "stage6module.end": "16/11/2026",
-                        "stage6module.effort": "600",
-                        "stage6module.elapsed": "66",
-                        "stage6module.cost": "6000",
-                        "stage6module.description": "Stage 6: In the Evaluate E-Commerce Channel module, the Consultant will evaluate the current E-Commerce channel to assess its performance by analysing the website design, product pages & pricing, conversion and drop out data, customer management, use of content and SEO to identify where there are gaps and therefore opportunities to improve the channel as a sales and conversion funnel for current and future customers.",
-                        "stage6module.scope": "Stage 6: In the Evaluate E-Commerce Channel module, the Consultant will take all reasonable steps to deliver the Module Output by: \n• Evaluating the strategic goals and objectives for E-Commerce \n• Reviewing website technology, structure, design and layout \n• Analysing product page design and approach to pricing \n• Evaluating customer management, digital marketing and SEO capabilities \n• Providing a summary of gaps, opportunities and recommendations for E-Commerce",
-                        "stage6module.output": "Stage 6: The Module Output will be a summary analyses and set of recommendations that highlight areas of opportunity for how to optimise and improve the conversion opportunity in the E-Commerce channel.",
-                        "stage6module.notes": "Stage 6: In my role as Director of Product Management and Marketing, I managed the partnership contract with Ericsson LME (Systems Integration Division based in Dublin). Primary responsibilities were Sales Support (Technical) for Ericsson in Africa and the Middle East. Providing bid support, training, customer presentations and product collateral to the Ericsson systems engineers and key account managers. 13 projects were delivered through Ericsson to mobile operators throughout the region."
                     }
                 ]
             }
