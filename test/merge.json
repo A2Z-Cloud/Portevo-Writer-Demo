@@ -9,19 +9,19 @@
             "action_type": "view"
         },
         {
-            "recipient_1": "customer@a2zcloud.eu.com",
+            "recipient_2": "customer@a2zcloud.eu.com",
             "action_type": "approve"
         },
         {
-            "recipient_2": "customer@a2zcloud.eu.com",
+            "recipient_3": "customer@a2zcloud.eu.com",
             "action_type": "sign"
         },
         {
-            "recipient_3": "consultant@a2zcloud.eu.com",
+            "recipient_4": "consultant@a2zcloud.eu.com",
             "action_type": "sign"
         },
         {
-            "recipient_3": "simon.bottle@portevo.co",
+            "recipient_5": "simon.bottle@portevo.co",
             "action_type": "sign"
         }
     ],
@@ -74,8 +74,8 @@
                 "stage1start": "01/07/2021",
                 "stage1end": "01/10/2021",
                 "stage1type": "Part-Time",
-                "stage1effort": "50",
-                "stage1elapsed": "92",
+                "stage1effort": "1",
+                "stage1elapsed": "2",
                 "stage1description": "Through the provision of consultant services with product development expertise, we will determine the needs and wants of your existing and target customer base, and also your internal people and stakeholders. We will also consider how relevant macro trends and market dynamics of where you plan to operate should influence future product strategy so that your decisions and choices are based on solid foundations.",
                 "stage1cost": "50118.75",
                 "stage2focus": "Stage 2 Focus",

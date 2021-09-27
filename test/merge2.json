@@ -1,0 +1,136 @@
+{
+    "service_name": "zohosign",
+    "filename": "Portevo Merge and Sign Demo Document [A2Z Cloud]",
+    "message": "Proposal for 22nd september 2021",
+    "sign_in_order": true,
+    "signer_data": [
+        {
+            "recipient_1": "asim33@yopmail.com",
+            "action_type": "view"
+        },
+        {
+            "recipient_2": "chainfir3@yopmail.com",
+            "action_type": "approve"
+        },
+        {
+            "recipient_3": "chainfir3@yopmail.com",
+            "action_type": "sign"
+        },
+        {
+            "recipient_4": "asim33@yopmail.com",
+            "action_type": "sign"
+        },
+        {
+            "recipient_5": "simon.bottle@portevo.co",
+            "action_type": "sign"
+        }
+    ],
+    "merge_data": {
+        "data": [
+            {
+                "title": "THE PORTEVO CLOUD SUBSCRIPTION SERVICE. ENABLING ACCESS TO THE TOP TIER OF CONSULTING EXPERTISE. ON DEMAND",
+                "focus": "Commercial Strategy",
+                "client": "Chainfireuk",
+                "clientlogo": "https://portevo43026-prod.s3.eu-west-2.amazonaws.com/public/b62635b9-3265-422f-91d5-5197fab88bbf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAXSJPZJVIW6YW7SY6%2F20210923%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210923T175707Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJGMEQCIEzMJ8sSEXk8aNvNuP7lst2%2BnlVYGjdRoRsyHUHQvVr%2FAiATvg3YnPkE%2FXPWrqTWeiZPDjjy8WId9pdTVtXyPG9QQirEBAgzEAAaDDUyMDMyODEzODA2NSIMV5%2BjVQZ165hYh4BkKqEEHntkp94nyIDoi0kBgJM5qJRYg4hk0QjlHYJu2YcPeJ9jQ4Yj3n1Oqk15VosHDZgGWKEUGFPthnPwNnCYc4C1JxsOB8zEHWN81WtrIM5sZnwtjZjUktLVrQoKNblWISlm0LnM8J7AroReyzK4jyO%2Fi13vH8R2q6Yvlsz%2F%2FgveBTru6uFihQk8aTK6D%2FmOHCkSIl36Bo0g1Z03GfzxS9c6ZiDUk%2FFHjArd2NAuzrRPBhD21F%2BceCC7p581s%2F%2B15dt14TFXKJ%2BOW02SUSqf8eFNG2%2Fc%2FmSnHVLfnvwV9tAs2LW9xB7CL6ysz31EdyRTtIDzROuGOFF9dVmbgbnw5qVlXSJwSr0mwpZJ9r0BAg1vNA1qLcxtkpf4hvKDUcc1eQ5BrV3ejBXHt8wVC1VKLFpdJsgUWMZCR8SX6F1E7wcP0GQ68m1jnuc7RNwPukhm0AAUWEOZtNvSYqJIMauI4fmD%2BNpikiR7qnLwqiigWt%2BSi3weWlB6R0H5O747i%2FZDOK2qizHpSefGvKeyPy9%2BnWmavu7E2t6939pQwrbhKLLKale9Fx%2B%2BdXxg8VuUeQ%2FQPTWIMtxMj9%2B8wS1N9qrD21WAtvvIcIHG%2BFEJAbpN7U13Nr3YHCR%2BC7IWdj3fE1b16MuULnGFAcm%2BM8D%2FWv3r0nz%2Bt4E9r%2BSS4XoWHxY2H68w%2Fkx8LXxP7sniToXqcaA3QubJ%2F5dbDGHhvTRGKKGlm9LozT8wzf%2ByigY6hgKF0nav1%2BfHe%2F8%2BhAWCdjokgLzeeGbSFERe85HNFQVC6UptbCmp5Y%2F1eZbHjWzJx%2FO%2BQh%2FWhF%2BqRb0IWnNZNrJ9WBBe7rD2hSHRNGWfB4yxn%2Fvu4y52PwENqN8FyVH7NkK9yT2KBIUoZoJjRBiieqlEq2lWmw7f2fgoGPc0PS2BfC6gEna%2BoSMy5OfjKq557gWcNTLdMKRfAHvnfoRa9rS2O6UoyfDWETrnMdDf6EY%2FQdxATtHp8UWT3HINFgpJgnGkr2ZxY5zYX7eoQosY9fcDknuVoCheRuIBFimoJ8VnWWCC1G1S9wlFMov94iFkr6QwdcqOP9%2FUE8psLRcGS0RwI9QXvmEU&X-Amz-Signature=daa93ba474a87fe1d3c35e53430a59f00c3c0afb37d12bb6910d4c019d36a30c&X-Amz-SignedHeaders=host&x-amz-user-agent=aws-sdk-js%2F3.6.1%20os%2FmacOS%2F10.15.7%20lang%2Fjs%20md%2Fbrowser%2FChrome_93.0.4577.82%20api%2Fs3%2F3.6.1%20aws-amplify%2F4.2.3_js&x-id=GetObject",
+                "contactname": "Chainfire",
+                "contacttitle": "title is title",
+                "proposaldate": "23/09/2021",
+                "proposalversion": "2.0",
+                "leadconsultantname": "Asim",
+                "leadconsultanttitle": "Title from admin panel and update",
+                "leadconsultantheadshot": "https://portevo43026-prod.s3.eu-west-2.amazonaws.com/public/1ce7839b-dea1-40f4-965f-252ee63f1ef6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAXSJPZJVIW6YW7SY6%2F20210923%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210923T175707Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMiJGMEQCIEzMJ8sSEXk8aNvNuP7lst2%2BnlVYGjdRoRsyHUHQvVr%2FAiATvg3YnPkE%2FXPWrqTWeiZPDjjy8WId9pdTVtXyPG9QQirEBAgzEAAaDDUyMDMyODEzODA2NSIMV5%2BjVQZ165hYh4BkKqEEHntkp94nyIDoi0kBgJM5qJRYg4hk0QjlHYJu2YcPeJ9jQ4Yj3n1Oqk15VosHDZgGWKEUGFPthnPwNnCYc4C1JxsOB8zEHWN81WtrIM5sZnwtjZjUktLVrQoKNblWISlm0LnM8J7AroReyzK4jyO%2Fi13vH8R2q6Yvlsz%2F%2FgveBTru6uFihQk8aTK6D%2FmOHCkSIl36Bo0g1Z03GfzxS9c6ZiDUk%2FFHjArd2NAuzrRPBhD21F%2BceCC7p581s%2F%2B15dt14TFXKJ%2BOW02SUSqf8eFNG2%2Fc%2FmSnHVLfnvwV9tAs2LW9xB7CL6ysz31EdyRTtIDzROuGOFF9dVmbgbnw5qVlXSJwSr0mwpZJ9r0BAg1vNA1qLcxtkpf4hvKDUcc1eQ5BrV3ejBXHt8wVC1VKLFpdJsgUWMZCR8SX6F1E7wcP0GQ68m1jnuc7RNwPukhm0AAUWEOZtNvSYqJIMauI4fmD%2BNpikiR7qnLwqiigWt%2BSi3weWlB6R0H5O747i%2FZDOK2qizHpSefGvKeyPy9%2BnWmavu7E2t6939pQwrbhKLLKale9Fx%2B%2BdXxg8VuUeQ%2FQPTWIMtxMj9%2B8wS1N9qrD21WAtvvIcIHG%2BFEJAbpN7U13Nr3YHCR%2BC7IWdj3fE1b16MuULnGFAcm%2BM8D%2FWv3r0nz%2Bt4E9r%2BSS4XoWHxY2H68w%2Fkx8LXxP7sniToXqcaA3QubJ%2F5dbDGHhvTRGKKGlm9LozT8wzf%2ByigY6hgKF0nav1%2BfHe%2F8%2BhAWCdjokgLzeeGbSFERe85HNFQVC6UptbCmp5Y%2F1eZbHjWzJx%2FO%2BQh%2FWhF%2BqRb0IWnNZNrJ9WBBe7rD2hSHRNGWfB4yxn%2Fvu4y52PwENqN8FyVH7NkK9yT2KBIUoZoJjRBiieqlEq2lWmw7f2fgoGPc0PS2BfC6gEna%2BoSMy5OfjKq557gWcNTLdMKRfAHvnfoRa9rS2O6UoyfDWETrnMdDf6EY%2FQdxATtHp8UWT3HINFgpJgnGkr2ZxY5zYX7eoQosY9fcDknuVoCheRuIBFimoJ8VnWWCC1G1S9wlFMov94iFkr6QwdcqOP9%2FUE8psLRcGS0RwI9QXvmEU&X-Amz-Signature=de1fb4bd4b4570bfbc292fe203a6b622330ce5feeedb6aa8353e6f2d77894d2c&X-Amz-SignedHeaders=host&x-amz-user-agent=aws-sdk-js%2F3.6.1%20os%2FmacOS%2F10.15.7%20lang%2Fjs%20md%2Fbrowser%2FChrome_93.0.4577.82%20api%2Fs3%2F3.6.1%20aws-amplify%2F4.2.3_js&x-id=GetObject",
+                "leadconsultantsummary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown \n\ntest 1\ntest 2\ntest 3\n\n\n\n",
+                "leadconsultanttestimonial": "",
+                "introduction": "Portevo is the smart new type of consulting network and platform for delivering your business change as a service.",
+                "clientsummary": "zz company",
+                "engagementsummary": "xx12",
+                "intro": [
+                    {
+                        "intro.header": "Portevo is radically different. ",
+                        "intro.message": "We provide professional expertise that is custom-fit for your project and organisation through our innovative Work Engine™ platform.."
+                    }
+                ],
+                "study": [],
+                "engagementstart": "22/09/2021",
+                "engagementend": "22/09/2021",
+                "engagementeffort": 3,
+                "engagementelapsed": 1,
+                "engagementgrosscost": "£19,500",
+                "engagementvat": "£3,900",
+                "engagementnetcost": "£23,400",
+                "stage1title": "Advisory",
+                "stage1summary": "One or more commercial strategy experts will provide advisory services that introduce a combination of real world and best practice advice for how to make business strategy development and execution effective",
+                "stage1focus": "Advisory",
+                "stage1start": "22/09/2021",
+                "stage1end": "22/09/2021",
+                "stage1type": "Part-Time",
+                "stage1effort": 2,
+                "stage1elapsed": 1,
+                "stage1description": "One or more commercial strategy experts will provide advisory services that introduce a combination of real world and best practice advice for how to make business strategy development and execution effective",
+                "stage1cost": "£13,000",
+                "stage1modulesummary": [
+                    {
+                        "stage1modulesummary.title": "Innovation Advisory",
+                        "stage1modulesummary.summary": "Advisory services that help increase innovation in an organisation.",
+                        "stage1modulesummary.consultant": "Asim",
+                        "stage1modulesummary.icon": "https://portevodev.s3.eu-west-2.amazonaws.com/uploads/Advisory/Innovation_Advisory.svg",
+                        "stage1modulesummary.start": "22/09/2021",
+                        "stage1modulesummary.end": "22/09/2021",
+                        "stage1modulesummary.effort": "2",
+                        "stage1modulesummary.elapsed": 0,
+                        "stage1modulesummary.cost": "£13,000",
+                        "stage1modulesummary.description": "Advisory services that help increase innovation in an organisation.",
+                        "stage1modulesummary.scope": "In the Innovation Advisory module, the Consultant will take all reasonable steps to deliver the Module Output by:\n\n• Providing advisory services to key innovation stakeholders in the organisation\n• Performing a high-level qualitative and quantitative assessment on innovation idea(s) and capabilities\n• Identifying problems, gaps and opportunities and providing advice on how to address them\n• Sharing best practice on innovation ideas and approaches - what to do and what to avoid\n• Summarising and simplifying advice on how to take innovation(s) forward in the organisation",
+                        "stage1modulesummary.output": "The Module Output will be a range of different recommendations on how to best proceed in creating more innovation in the organisation.",
+                        "stage1modulesummary.notes": "123"
+                    }
+                ],
+                "stage2title": "Discovery",
+                "stage2summary": "One or more commercial strategy experts will build a picture of customer needs, market gaps, and markets for those gaps that could be addressed by a business",
+                "stage2focus": "Discovery",
+                "stage2start": "22/09/2021",
+                "stage2end": "22/09/2021",
+                "stage2type": "Part-Time",
+                "stage2effort": 1,
+                "stage2elapsed": 1,
+                "stage2description": "One or more commercial strategy experts will build a picture of customer needs, market gaps, and markets for those gaps that could be addressed by a business",
+                "stage2cost": "£6,500",
+                "stage2modulesummary": [
+                    {
+                        "stage2modulesummary.title": "Macro Trends Analysis",
+                        "stage2modulesummary.summary": "A broad analyses of relevant macro trend that can influence strategy and plans.",
+                        "stage2modulesummary.consultant": "Asim",
+                        "stage2modulesummary.icon": "https://portevodev.s3.eu-west-2.amazonaws.com/uploads/Discovery/Macro_Trend_Analysis.svg",
+                        "stage2modulesummary.start": "22/09/2021",
+                        "stage2modulesummary.end": "22/09/2021",
+                        "stage2modulesummary.effort": "1",
+                        "stage2modulesummary.elapsed": 0,
+                        "stage2modulesummary.cost": "£6,500",
+                        "stage2modulesummary.description": "A broad analyses of relevant macro trend that can influence strategy and plans.",
+                        "stage2modulesummary.scope": "In the Macro Trends Analysis module, the Consultant will take all reasonable steps to deliver the Module Output by:\n\n• Identifying in-scope areas for coverage in macros trends analyses\n• Analysing data, insights and industry reports related to recent and emerging shifts\n• Evaluating trends, predictions and weak signals about likely shifts\n• Assessing relevance, likelihood and materiality of impact or influence\n• Providing summary macro trend report and recommendations for actions",
+                        "stage2modulesummary.output": "The Module Output will be a summary of macro trends that should influence decisions based on analyses of trends and charted predictions.",
+                        "stage2modulesummary.notes": "xx12"
+                    }
+                ],
+                "pricing": [
+                    {
+                        "pricing.module": "Advisory",
+                        "pricing.start": "22/09/2021",
+                        "pricing.end": "22/09/2021",
+                        "pricing.effort": 2,
+                        "pricing.elapsed": 1,
+                        "pricing.cost": "£13,000"
+                    },
+                    {
+                        "pricing.module": "Discovery",
+                        "pricing.start": "22/09/2021",
+                        "pricing.end": "22/09/2021",
+                        "pricing.effort": 1,
+                        "pricing.elapsed": 1,
+                        "pricing.cost": "£6,500"
+                    }
+                ]
+            }
+        ]
+    }
+}
