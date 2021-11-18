@@ -5,26 +5,30 @@
     "sign_in_order": true,
     "signer_data": [
         {
-            "recipient_1": "customer@a2zcloud.eu.com",
-            "action_type": "approve"
+            "recipient_1": "consultant@a2zcloud.eu.com",
+            "action_type": "view"
         },
         {
             "recipient_2": "customer@a2zcloud.eu.com",
+            "action_type": "approve"
+        },
+        {
+            "recipient_3": "customer@a2zcloud.eu.com",
             "action_type": "sign"
         },
         {
-            "recipient_3": "consultant@a2zcloud.eu.com",
+            "recipient_4": "consultant@a2zcloud.eu.com",
             "action_type": "sign"
         },
         {
-            "recipient_4": "simon.bottle@portevo.co",
+            "recipient_5": "simon.bottle@portevo.co",
             "action_type": "sign"
         }
     ],
     "merge_data": {
         "data": [
             {
-                "projectname": "THE PORTEVO CLOUD SUBSCRIPTION SERVICE. ENABLING ACCESS TO THE TOP TIER OF CONSULTING EXPERTISE. ON DEMAND.",
+                "title": "THE PORTEVO CLOUD SUBSCRIPTION SERVICE. ENABLING ACCESS TO THE TOP TIER OF CONSULTING EXPERTISE. ON DEMAND.",
                 "focus": "Business Transformation",
                 "client": "EXFO Inc.",
                 "clientlogo": "https://www.exfo.com/dist/atomic/organism/o-header/o-header-banner/exfo.png",
